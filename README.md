@@ -18,3 +18,9 @@ Mình sẽ làm việc theo từng Branch riêng, cá nhân nha. Không Pull Req
 5. **Tạo Pull Request (PR):** Lên giao diện GitHub, tạo một PR để gộp nhánh cá nhân vào nhánh main.
 Mình sẽ tổng hợp lại và khi ổn mình sẽ Merge vào Main Branch, vì khi làm riêng nó sẽ dễ bị sung đột nên để mình tổng hợp lại và Merge một lần một.
 6. **Lưu ý:** Nhớ Clear Output trước khi Save để cho nó gọn nha.
+
+---
+
+## **Đơn giản hơn**
+Mọi người có thể tải notebooks về để làm cá nhân sau đó Push lên Github (Tạo folder riêng của mình) 
+và mình sẽ tải về và tổng hợp lại.
