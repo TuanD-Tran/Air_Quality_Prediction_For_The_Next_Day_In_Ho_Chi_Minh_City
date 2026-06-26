@@ -185,3 +185,5 @@ http://localhost:8050
 
 ## **XI. License**
 Dự án này được sử dụng cho mục đích học tập và minh họa trong môn Nhập môn Khoa học Dữ liệu - Nhóm 6 - 24KDL
+
+[Github](https://github.com/TuanD-Tran/Air_Quality_Prediction_For_The_Next_Day_In_Ho_Chi_Minh_City/tree/main)
