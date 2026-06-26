@@ -169,7 +169,7 @@ http://localhost:8050
 
 ---
 
-## **IV. Hướng Phát Triển Tiếp Theo**
+## **IX. Hướng Phát Triển Tiếp Theo**
 - Bổ sung dữ liệu thời tiết để tăng độ chính xác.
 - Thử nghiệm thêm các mô hình thời gian như SARIMA, LSTM hoặc Transformer.
 - Tối ưu tham số mô hình và xây dựng hệ thống cảnh báo tự động.
@@ -178,8 +178,9 @@ http://localhost:8050
 ---
 
 ## **X. Tài Liệu Tham Khảo**
-- Dataset chất lượng không khí TP.HCM.
-- Các thư viện hỗ trợ: pandas, scikit-learn, xgboost, lightgbm, plotly, dash, shap.
+- Dataset: Kaggle "Air Quality Dataset for Ho Chi Minh City" (nitirajkulkarni, GeoNames ID 1566083).
+- API dữ liệu thời gian thực: Open-Meteo Air Quality API.
+- Các thư viện hỗ trợ: pandas, numpy, scikit-learn, xgboost, lightgbm, plotly, dash, shap, statsmodels.
 
 ---
 
